@@ -7,10 +7,16 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GustavoOmelhor/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="53" height="41" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/GustavoOmelhor/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="53" height="41" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/GustavoOmelhor/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="53" height="41" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/GustavoOmelhor/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="41" alt="gmail logo"  />
+  <a href="https://www.youtube.com/@Gustavuou" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="53" height="41" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/gugupaixao" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="53" height="41" alt="twitch logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="53" height="41" alt="discord logo"  />
+  <a href="gustavocalixtosoares@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="41" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -29,6 +35,9 @@
   <img src="https://skillicons.dev/icons?i=ps" height="26" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="26" alt="adobepremierepro logo"  />
+</div>
+
+###
 </div>
 
 ###
