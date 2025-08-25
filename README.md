@@ -1,4 +1,4 @@
-<p align="left"> GUSTAVO <------ EU </p>
+<p align="left"> GUSTAVO = EU </p>
 
 ###
 
