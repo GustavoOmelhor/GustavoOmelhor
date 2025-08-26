@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header"/>
 
-<div align="center" style="padding: 20px; background: linear-gradient(135deg, #0A192F, #112D4E); border-radius: 20px; box-shadow: 0 8px 20px rgba(0, 0, 50, 0.4); width: fit-content; margin: auto;">
+
   
 <h1 align="left">GUSTAVO<br> Sou eu :)</h1>
 
