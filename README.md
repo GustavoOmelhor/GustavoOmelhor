@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header](https://krikey-ai.ghost.io/content/images/2025/06/GIF-Maker-Halloween-GIF-Transparent.GIF)"/>
 
 
   
